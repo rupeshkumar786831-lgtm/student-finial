@@ -1,0 +1,122 @@
+[
+  {
+    "roll_no": 1,
+    "name": "Amit Sharma",
+    "father_name": "Rajesh Sharma",
+    "mother_name": "Neelam Sharma",
+    "phone": "9876543210",
+    "address": "H-12, Sector 15, Rohini, Delhi - 110085",
+    "class": "10th",
+    "section": "A",
+    "age": 15,
+    "email": "amit.sharma@example.com"
+  },
+  {
+    "roll_no": 2,
+    "name": "Priya Verma",
+    "father_name": "Sanjay Verma",
+    "mother_name": "Kavita Verma",
+    "phone": "9876543211",
+    "address": "45, Gandhi Nagar, Lucknow, UP - 226001",
+    "class": "10th",
+    "section": "A",
+    "age": 15,
+    "email": "priya.verma@example.com"
+  },
+  {
+    "roll_no": 3,
+    "name": "Rohan Mehta",
+    "father_name": "Ashok Mehta",
+    "mother_name": "Sunita Mehta",
+    "phone": "9876543212",
+    "address": "A-203, Green Park, Indore, MP - 452001",
+    "class": "10th",
+    "section": "B",
+    "age": 16,
+    "email": "rohan.mehta@example.com"
+  },
+  {
+    "roll_no": 4,
+    "name": "Sneha Patil",
+    "father_name": "Vijay Patil",
+    "mother_name": "Sujata Patil",
+    "phone": "9876543213",
+    "address": "Flat 7, Shivaji Nagar, Pune, MH - 411005",
+    "class": "10th",
+    "section": "B",
+    "age": 15,
+    "email": "sneha.patil@example.com"
+  },
+  {
+    "roll_no": 5,
+    "name": "Kunal Das",
+    "father_name": "Sukumar Das",
+    "mother_name": "Mamata Das",
+    "phone": "9876543214",
+    "address": "56, Lake Town, Kolkata, WB - 700089",
+    "class": "10th",
+    "section": "A",
+    "age": 15,
+    "email": "kunal.das@example.com"
+  },
+  {
+    "roll_no": 6,
+    "name": "Anjali Yadav",
+    "father_name": "Mahendra Yadav",
+    "mother_name": "Sarita Yadav",
+    "phone": "9876543215",
+    "address": "12/345, Jawahar Nagar, Jaipur, RJ - 302004",
+    "class": "10th",
+    "section": "C",
+    "age": 16,
+    "email": "anjali.yadav@example.com"
+  },
+  {
+    "roll_no": 7,
+    "name": "Saurabh Singh",
+    "father_name": "Digvijay Singh",
+    "mother_name": "Rajkumari Singh",
+    "phone": "9876543216",
+    "address": "Village Khajuri, Post Office Ratua, District Satna, MP - 485001",
+    "class": "10th",
+    "section": "C",
+    "age": 15,
+    "email": "saurabh.singh@example.com"
+  },
+  {
+    "roll_no": 8,
+    "name": "Neha Gupta",
+    "father_name": "Alok Gupta",
+    "mother_name": "Ritu Gupta",
+    "phone": "9876543217",
+    "address": "C-9, Civil Lines, Agra, UP - 282002",
+    "class": "10th",
+    "section": "B",
+    "age": 15,
+    "email": "neha.gupta@example.com"
+  },
+  {
+    "roll_no": 9,
+    "name": "Vikash Kumar",
+    "father_name": "Ramashray Kumar",
+    "mother_name": "Phoolan Devi",
+    "phone": "9876543218",
+    "address": "Hanuman Nagar, Patna, Bihar - 800001",
+    "class": "10th",
+    "section": "A",
+    "age": 16,
+    "email": "vikash.kumar@example.com"
+  },
+  {
+    "roll_no": 10,
+    "name": "Pooja Reddy",
+    "father_name": "Suresh Reddy",
+    "mother_name": "Lakshmi Reddy",
+    "phone": "9876543219",
+    "address": "8-3-12, Banjara Hills, Hyderabad, TG - 500034",
+    "class": "10th",
+    "section": "C",
+    "age": 15,
+    "email": "pooja.reddy@example.com"
+  }
+]
